@@ -1,0 +1,6 @@
+﻿  UnitTest2.2.cpp
+C:\Users\Юрій\Desktop\2.2\2.2\String.cpp(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Юрій\Desktop\2.2\2.2\String.cpp(27,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Юрій\Desktop\2.2\2.2\String.cpp(60): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+     Creating library C:\Users\Юрій\Desktop\2.2\x64\Debug\UnitTest2.2.lib and object C:\Users\Юрій\Desktop\2.2\x64\Debug\UnitTest2.2.exp
+  UnitTest2.2.vcxproj -> C:\Users\Юрій\Desktop\2.2\x64\Debug\UnitTest2.2.dll
